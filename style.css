@@ -21,7 +21,7 @@ body {
 }
 header {
     display: flex;
-    background-color: #133a75fc;
+    background-color: red;
     background: linear-gradient(to right, #870378, #950434);
     background-size: 300% 100%;
     animation: gradientFlow 6s ease infinite;
